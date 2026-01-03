@@ -1,0 +1,24 @@
+[
+    {
+        "first_name": "GILBERTO",
+        "last_name": "FIERRO",
+        "born_date": "31-01-1961",
+        "address": "AMPLIACION NORTE QUINTANA 920 EDIF. 065 , DEPTO. 264",
+        "country": "Mexico",
+        "zip_code": "64020",
+        "city": "MONTERREY",
+        "id_address": "GILBERTO_FIERRO.png",
+        "min_country": "MX"
+    }, 
+{
+        "first_name": "TEODORO",
+        "last_name": "HARO",
+        "born_date": "15-01-2005",
+        "address": "AMPLIACION CANADA 890 INTERIOR 473",
+        "country": "Mexico",
+        "zip_code": "64010",
+        "city": "MONTERREY",
+        "id_address": "TEODORO_HARO.png",
+        "min_country": "MX"
+    } 
+]
