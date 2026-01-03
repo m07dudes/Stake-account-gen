@@ -89,7 +89,7 @@ You are responsible for how you use this information.
 
 ## 🛡️ Python
 
-Python Version Should be 1.13.7
+Python Version Should be 3.13.7
 
 ---
 
