@@ -87,6 +87,11 @@ You are responsible for how you use this information.
 
 ---
 
+## 🛡️ Python
+
+Python Version Should be 1.13.7
+
+---
 
 # Donations
 - LTC: LYWUzAQLcPAcNg9UrEddZ9kpe8ta8dzMN9
