@@ -482,9 +482,8 @@ class Gen(threading.Thread):
             with open("acc.txt", "a") as f:
                 f.write(x+"\n")
                 f.close()
-        except:  # Noqa: E722
-            print("Error IDK probbaly proxy")
-
+        except Exception as er:  # Noqa: E722
+            print(er)
 
 def ASCI():
     print(f"""{Fore.RED}
