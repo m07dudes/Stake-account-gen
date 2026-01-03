@@ -1,5 +1,7 @@
 # Stake Account Generator (Educational Only)
 
+Discord: https://discord.gg/yCEHVMEsHC
+
 > **⚠️ EDUCATIONAL PURPOSE ONLY**
 >
 > This project is made **only to teach and demonstrate how reverse engineering and automation concepts work**.
